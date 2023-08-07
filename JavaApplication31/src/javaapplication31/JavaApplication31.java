@@ -14,6 +14,8 @@ public class JavaApplication31 {
         
         Danilo dani= new Danilo();
         System.out.println(dani.Saludar());
+        Mauro mauro= new Mauro();
+        System.out.println(mauro.Saludar());
         
     }
     
