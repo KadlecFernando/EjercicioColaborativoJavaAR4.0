@@ -9,6 +9,8 @@ public class JavaApplication31 {
         FernandoKadlec fernando = new FernandoKadlec();
         System.out.println(fernando.Saludar());
         
+        GonzaloVallejos gonzalo = new GonzaloVallejos();
+        System.out.println(gonzalo.Saludar());
         
     }
     
