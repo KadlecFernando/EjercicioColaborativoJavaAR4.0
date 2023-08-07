@@ -12,6 +12,9 @@ public class JavaApplication31 {
         GonzaloVallejos gonzalo = new GonzaloVallejos();
         System.out.println(gonzalo.Saludar());
         
+        Danilo dani= new Danilo();
+        System.out.println(dani.Saludar());
+        
     }
     
 }
